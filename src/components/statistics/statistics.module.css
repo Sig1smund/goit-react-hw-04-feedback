@@ -1,0 +1,12 @@
+p {
+  font-size: 20px;
+}
+
+.total {
+  font-weight: bold;
+}
+
+.percentage {
+  font-weight: bold;
+  font-style: italic;
+}
