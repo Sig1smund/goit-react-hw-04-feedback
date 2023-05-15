@@ -1,0 +1,17 @@
+p {
+  font-size: 20px;
+}
+
+.container {
+  width: 330px;
+  align-items: flex-start;
+}
+
+.total {
+  font-weight: bold;
+}
+
+.percentage {
+  font-weight: bold;
+  font-style: italic;
+}
